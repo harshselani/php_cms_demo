@@ -1,4 +1,4 @@
 php_cms_demo
 ============
 
-A test logging system based in PHP-Mysql
+A basic blogging system based in PHP-Mysql
